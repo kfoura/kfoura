@@ -9,7 +9,7 @@ CS @ Texas A&M
 - Interested in backend systems, ML, and developer tools  
 - Building projects that are practical, fast, and reliable  
 - Currently working on: [Doom-RL](https://github.com/kfoura/Doom-RL) and [physics-engine](https://github.com/kfoura/physics-engine)
-- Currently Learning: Reinforcement Learning and OpenGL
+- Currently Learning: Reinforcement Learning, OpenGL, and Go
 
 ---
 
