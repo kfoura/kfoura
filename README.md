@@ -1,31 +1,15 @@
 # Kaushik Nagarajan
 
-Software Engineer · Backend & Machine Learning  
-CS @ Texas A&M
+Software Engineer 
 
----
+CS @ Texas A&M, minors in Statistics and Film Studies
 
-### About Me
-- Interested in backend systems, ML, and developer tools  
-- Building projects that are practical, fast, and reliable  
-- Currently working on: [Doom-RL](https://github.com/kfoura/Doom-RL) and [physics-engine](https://github.com/kfoura/physics-engine)
-- Currently Learning: Reinforcement Learning, OpenGL, and Go
-
----
+Incoming SWE Intern @ Viasat
 
 ### Skills
 Python · Java · C/C++ · JavaScript/TypeScript  
 Flask · Django · Node.js · React  
 MongoDB · Redis · SQL · AWS · GitHub Actions  
-
----
-
-### Projects
-- **Aggie Class Alert** — real-time course availability monitoring  
-- **Valorant Kills Prediction** — feature engineering + XGBoost  
-
-
----
 
 ### Personal Interests
 - Movies
